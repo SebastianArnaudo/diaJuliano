@@ -4,7 +4,7 @@ import tkinter as tk
 def main():
 
     window = tk.Tk()
-    window.title("calculo edad")
+    window.title("Dia Juliano")
     window.geometry("450x350")
 
     
